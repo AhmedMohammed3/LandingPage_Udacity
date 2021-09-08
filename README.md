@@ -16,7 +16,7 @@ It's built on top of [this GitHub repository](https://github.com/udacity/fend/tr
 * [Contribute](#contribute)
 
 ## Installation
- Open your terminal and run the following command
+ Open your terminal and run the following command<br/>
      `git clone https://github.com/AhmedMohammed3/LandingPage_Udacity.git`
 ## Usage
 Just open [index.html file](index.html) in your favorite browser
@@ -42,13 +42,13 @@ The development phase was split to 3 steps:
 			 - Calling of Main Functions
 ## Contribute
 ### Adding new features or fixing bugs
-1. Open your terminal and clone the repository
+1. Open your terminal and clone the repository<br/>
      `git clone https://github.com/AhmedMohammed3/LandingPage_Udacity.git`
-2. Create your branch
+2. Create your branch<br/>
       `git checkout -b {YOUR_BRANCH_NAME}`
 3. Make your edits and review it well.
-4. Commit your changes with appropriate message. Follow [these git style guides](https://udacity.github.io/git-styleguide/)
+4. Commit your changes with appropriate message. Follow [these git style guides](https://udacity.github.io/git-styleguide/)<br/>
       `git checkout -b {YOUR_BRANCH_NAME}`
-5. Push your changes
+5. Push your changes<br/>
       `git push origin {YOUR_BRANCH_NAME}`
 6. Create a merge request
